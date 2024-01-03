@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 />
 </a>
 
-I'm [**Haydar Amru**](https://github.com/haydaramru) and Obsessed with tinkering (me vs rabbit hole) and **projects** that's solve "interesting" problem, while improving my critical thinking and analytical skills.   
+I'm [**Haydar Amru**](https://github.com/haydaramru) and Obsessed with tinkering (me vs rabbit hole) and **projects** that's solve "interesting" problem. I'm on the lookout for a spot in a forward-thinking community where I can sharpen skills through hands-on training. Let's connect and explore opportunities together!🤝
 
 ```rescript
 
@@ -33,9 +33,6 @@ module Haydar = {
   let lang = [ "id", "en" ]
   let interests = [
     "cat🐱",
-    "web application",
-    "embedded programming",
-    "AI = (Artificial Intelligence)",
     "open source",
     "dad jokes",
     "philosophy"
