@@ -16,10 +16,10 @@ I'm [**Haydar Amru**](https://github.com/haydaramru), obsessed with tinkering (m
 <a href="https://web.mit.edu/6.001/6.037/sicp.pdf">   
 <img 
   src="https://raw.github.com/haydaramru/haydaramru/master/cat.gif" 
-  alt="I'm really confused about what I should learn"
-  style="margin-top:20px;margin-right:13px"
+  alt="Let's create something lit🔥"
+  style="margin-top:20px;margin-right:20px"
   align="left" 
-  height="400px"
+  height="200px"
 />
 </a>
 
