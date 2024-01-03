@@ -11,6 +11,8 @@ You can click the Preview link to take a look at your changes.
 
 ## Hi 👋 
 
+I'm [**Haydar Amru**](https://github.com/haydaramru), obsessed with tinkering (me vs rabbit hole) and diving into **projects** that solve "interesting" problems. I'm open for a spot in a forward-thinking community where I can sharpen skills through hands-on training. Let's connect and explore opportunities together!🤝
+
 <a href="https://web.mit.edu/6.001/6.037/sicp.pdf">   
 <img 
   src="https://raw.github.com/haydaramru/haydaramru/master/cat.gif" 
@@ -20,8 +22,6 @@ You can click the Preview link to take a look at your changes.
   height="400px"
 />
 </a>
-
-I'm [**Haydar Amru**](https://github.com/haydaramru) and Obsessed with tinkering (me vs rabbit hole) and **projects** that's solve "interesting" problem. I'm on the lookout for a spot in a forward-thinking community where I can sharpen skills through hands-on training. Let's connect and explore opportunities together!🤝
 
 ```rescript
 
