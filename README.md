@@ -15,9 +15,9 @@ I'm **Haydar Amru**, obsessed with tinkering (me vs rabbit hole) and diving into
 
 <a href="https://web.mit.edu/6.001/6.037/sicp.pdf">   
 <img 
-  src="https://raw.github.com/haydaramru/haydaramru/master/i-want-food.gif" 
+  src="https://raw.github.com/haydaramru/haydaramru/master/sicp.png" 
   alt="just do your mf work"
-  style="margin-top:20px"
+  style="margin-top:20px;margin-right:12px"
   align="left" 
   height="400px"
 />
