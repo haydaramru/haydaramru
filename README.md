@@ -15,13 +15,15 @@ I'm [**Haydar Amru**](https://github.com/haydaramru), obsessed with tinkering (m
 
 <a href="https://web.mit.edu/6.001/6.037/sicp.pdf">   
 <img 
-  src="https://raw.github.com/haydaramru/haydaramru/master/cat.gif" 
+  src="https://raw.github.com/haydaramru/haydaramru/master/i-want-food.gif" 
   alt="Let's create something lit🔥"
-  style="margin-top:20px;margin-right:20px"
+  style="margin-top:20px;margin-right:18px"
   align="left" 
-  height="200px"
+  height="400px"
 />
 </a>
+
+> Every good wizard knows; if you have the name of a spirit, you have power over it.
 
 ```rescript
 
