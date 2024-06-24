@@ -13,10 +13,10 @@ You can click the Preview link to take a look at your changes.
 
 I'm **Haydar Amru**, obsessed with tinkering (me vs rabbit hole) and diving into **projects** that solve "interesting" problems. I'm open for a spot in a forward-thinking community where I can sharpen skills through hands-on training. Let's [connect](https://www.linkedin.com/in/haydaramru/) and explore opportunities together!🤝
 
-<a href="https://en.wikipedia.org/wiki/Accolade">   
+<a href="https://en.wikipedia.org/wiki/Optical_illusion">   
 <img 
-  src="https://raw.github.com/haydaramru/haydaramru/master/accolade.png" 
-  alt="The Accolade (1901), by Edmund Leighton"
+  src="https://raw.github.com/haydaramru/haydaramru/master/optical-illusion.jpg" 
+  alt="Motion illusion: contrasting colors create the illusion of motion."
   style="margin-top:20px;margin-right:12px"
   align="left" 
   height="400px"
