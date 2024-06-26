@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-I'm **Haydar Amru**, obsessed with tinkering (me vs rabbit hole) and diving into **projects** that solve "interesting" problems. I'm open for a spot in a forward-thinking community where I can sharpen skills through hands-on training. Let's [connect](https://www.linkedin.com/in/haydaramru/) and explore opportunities together!🤝
+I'm **Haydar Amru**, obsessed with tinkering (me vs rabbit hole) and diving into **projects** that solve "interesting" problems. Let's [connect](https://www.linkedin.com/in/haydaramru/) and explore opportunities together🤝
 
 <a href="https://en.wikipedia.org/wiki/Optical_illusion">   
 <img 
