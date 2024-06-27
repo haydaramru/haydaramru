@@ -25,28 +25,19 @@ I'm **Haydar Amru**, obsessed with tinkering (me vs rabbit hole) and diving into
 
 ```python
 
-def get_profile():
-    name = 'Haydar Amru Revanda'
-    username = 'haydaramru'
-    workplace = '?'
-    city = 'Yogyakarta, 🇮🇩'
-    lang = [ 'id', 'en' ]
-    interest = [ 'cat🐱', 'dad jokes', 'philosophy' ]
+from typing import Dict, Union, List
 
-    profile = {
-        'name': name,
-        'username': username,
-        'workplace': workplace,
-        'city': city,
-        'languages': lang,
-        'interests': interest
-    }
-
-    return profile
+PROFILE: Dict[str, Union[str, List[str]]] = {
+    'name': 'Haydar Amru Revanda',
+    'username': 'haydaramru',
+    'workplace': '?',
+    'city': 'Yogyakarta, 🇮🇩',
+    'languages': ['id', 'en'],
+    'interests': ['cat🐱', 'dad jokes', 'philosophy']
+}
 
 if __name__ == "__main__":
-    my_profile = get_profile()
-    print(my_profile)
+    print(PROFILE)
 
 ```
 
