@@ -19,7 +19,7 @@ I'm **Haydar Amru**, obsessed with tinkering (me vs rabbit hole) and diving into
   alt="Motion illusion: contrasting colors create the illusion of motion."
   style="margin-top:20px;margin-right:12px"
   align="left" 
-  height="245px"
+  height="248px"
 />
 </a>
 
