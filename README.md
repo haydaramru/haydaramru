@@ -15,7 +15,7 @@ I'm **Haydar Amru**, obsessed with tinkering (me vs rabbit hole) and diving into
 
 <a href="https://en.wikipedia.org/wiki/Optical_illusion">   
 <img 
-  src="https://raw.github.com/haydaramru/haydaramru/master/optical-illusion.jpg" 
+  src="https://raw.github.com/haydaramru/haydaramru/master/i-want-food.gif" 
   alt="Motion illusion: contrasting colors create the illusion of motion."
   style="margin-top:20px;margin-right:12px"
   align="left" 
